@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apollotv-8k.github.io/iptv-service/sitemap.xml
